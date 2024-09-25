@@ -6,7 +6,7 @@
 The Portfolio Website is designed to showcase the skills, projects, and experiences of me, I am Pushpraj Singh Rajput, a 3rd-year computer science student. This website provides a user-friendly interface for visitors to learn more about me and explore various projects, blog posts, and contact information.
 
 ### Key Activities
-- **About Me Section**: Provides a brief introduction to Pushpraj, highlighting academic background, interests, and current projects.
+- **About Me Section**: Provides a brief introduction to me, highlighting academic background, interests, and current projects.
 - **Projects Section**: Displays ongoing and completed projects, including detailed descriptions of the Deep Fake Detection System and a Slot Machine game developed in Python.
 - **Blog Section**: Features a simple blog application where users can create, edit, and delete posts, allowing for engagement and sharing of thoughts.
 - **Contact Section**: Offers a way for visitors to get in touch via email, enhancing networking opportunities.
