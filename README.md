@@ -1,4 +1,4 @@
-# Overview of the Projects
+# Overview of the Project
 
 ## Portfolio Website
 
